@@ -1,0 +1,146 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 607 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 702 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+12:51:06 PM [vite] .env.sample changed, restarting server...
+12:51:06 PM [vite] server restarted.
+12:51:30 PM [vite] .env changed, restarting server...
+12:51:30 PM [vite] server restarted.
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.3  ready in 731 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+6:59:44 PM [vite] .env changed, restarting server...
+6:59:44 PM [vite] .env changed, restarting server...
+6:59:44 PM [vite] server restarted.
+Port 5173 is in use, trying another one...
+6:59:44 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+7:01:25 PM [vite] .env changed, restarting server...
+7:01:25 PM [vite] .env changed, restarting server...
+Port 5173 is in use, trying another one...
+7:01:26 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+7:01:26 PM [vite] server restarted.
+7:02:18 PM [vite] .env changed, restarting server...
+7:02:18 PM [vite] .env changed, restarting server...
+7:02:18 PM [vite] server restarted.
+Port 5173 is in use, trying another one...
+7:02:18 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+7:06:00 PM [vite] .env changed, restarting server...
+7:06:00 PM [vite] .env changed, restarting server...
+Port 5173 is in use, trying another one...
+7:06:00 PM [vite] server restarted.
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+7:06:00 PM [vite] server restarted.
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v4.5.3  ready in 741 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://192.168.1.90:5175/
+Unknown command: "dev"
+
+Did you mean this?
+    npm run dev # run the "dev" package script
+
+To see a list of supported npm commands, run:
+  npm help
+Unknown command: "dev"
+
+Did you mean this?
+    npm run dev # run the "dev" package script
+
+To see a list of supported npm commands, run:
+  npm help
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 2593 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+6:47:58 AM [vite] .env changed, restarting server...
+6:47:58 AM [vite] server restarted.
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.3  ready in 1237 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.90:5174/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 1735 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 1961 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 805 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 2315 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.90:5173/

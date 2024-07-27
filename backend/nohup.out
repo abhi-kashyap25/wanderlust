@@ -1,0 +1,432 @@
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Redis Connected: redis://127.0.0.1:6379
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1727:16)
+    at listenInCluster (node:net:1775:12)
+    at Server.listen (node:net:1863:7)
+    at Function.listen (/root/wanderlust/wanderlust/backend/node_modules/express/lib/application.js:635:24)
+    at file:///root/wanderlust/wanderlust/backend/server.js:14:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Emitted 'error' event on Server instance at:
+    at emitErrorNT (node:net:1754:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 8080
+}
+
+Node.js v18.13.0
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+connect ECONNREFUSED 127.0.0.1:27017
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+
+> start
+> node server.js
+
+Redis Connected: redis://127.0.0.1:6379
+Database connected: mongodb://127.0.0.1/wanderlust
+Server is running on port 8080
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: featured-posts
+Getting cached data for key: all-posts
+Getting cached data for key: latest-posts
+Getting cached data for key: all-posts
+Getting cached data for key: featured-posts

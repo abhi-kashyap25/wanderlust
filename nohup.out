@@ -1,0 +1,14 @@
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2024-07-15T18_18_53_612Z-debug-0.log
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2024-07-15T18_27_19_943Z-debug-0.log
